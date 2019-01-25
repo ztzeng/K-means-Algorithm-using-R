@@ -1,5 +1,4 @@
-# k-means-algorithm-using-R
-Code a k-means algorithm from scratch
+# Code a K-means Algorithm from Scratch
 
 The function will take the following arguments:
 
