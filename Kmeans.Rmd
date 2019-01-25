@@ -1,7 +1,8 @@
 
 ---
 title: "K-Means Algorithm"
-author: "Anna (Zitong) Zeng"
+author: "Anna (Zitong) Zeng
+code in R Markdown
 ---
 
 ```{r,message = FALSE}
